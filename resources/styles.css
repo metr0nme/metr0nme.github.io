@@ -1,0 +1,21 @@
+@import "/resources/primary.css";
+
+:root{
+    background-image: var(--backdrop) ;
+    color:var(--text);
+}
+
+.centered {
+    
+    margin: auto auto;
+    
+    text-align: center;
+}
+
+#topbox {
+    width: 100%;
+    height: 10%;
+    background-color: rgba(143, 21, 21, 0.356);
+    border-radius: 15px;
+    height: 60px;
+}
